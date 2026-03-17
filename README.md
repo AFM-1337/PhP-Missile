@@ -39,7 +39,7 @@
 🌟 FEATURES
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bY3UQVjQ7mw/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2R5N3B4dTFyb2Z5dGJtcnE3dDRxN2k3b3l3dGJ4cGp6dGJ4cGp6dA/giphy.gif" width="400">
 </p>
 
 🏷️ Feature Description
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jH6gkTWm8qo/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG95N2N3eGp3cThnY2l0bWpwYzJ0a3Z6dWp4d2F0dGZ6dWp4d2F0dA/giphy.gif" width="500">
 </p>
 
 Main Menu
@@ -88,15 +88,15 @@ Impossible Mode Visualization
 ```
 [*] IMPOSSIBLE TO BREAK MODE
 ────────────────────
-  🔸 Layer 01: PHP TAG REMOVAL           [COMPLETED]
-  🔹 Layer 02: CODE MINIFICATION         [COMPLETED]
-  🔸 Layer 03: CHUNK SPLITTING           [COMPLETED]
-  🔹 Layer 04: XOR ENCRYPTION            [COMPLETED]
-  🔸 Layer 05: BASE64 X5 LAYER           [COMPLETED]
-  🔹 Layer 06: REVERSE CHUNKS            [COMPLETED]
-  🔸 Layer 07: GZIP COMPRESSION          [COMPLETED]
+  🔸 Layer 01: PHP TAG REMOVAL           [████████████░░░░░░] 60%
+  🔹 Layer 02: CODE MINIFICATION         [████████████░░░░░░] 60%
+  🔸 Layer 03: CHUNK SPLITTING           [██████████████░░░░] 70%
+  🔹 Layer 04: XOR ENCRYPTION            [██████████████░░░░] 70%
+  🔸 Layer 05: BASE64 X5 LAYER           [████████████████░░] 80%
+  🔹 Layer 06: REVERSE CHUNKS            [████████████████░░] 80%
+  🔸 Layer 07: GZIP COMPRESSION          [██████████████████] 90%
   ... (and 18 more layers)
-  ⭐ Layer 25: COMPLETE                   [SUCCESS]
+  ⭐ Layer 25: COMPLETE                   [██████████████████] 100%
 ────────────────────
 ```
 
@@ -105,7 +105,7 @@ Impossible Mode Visualization
 ⚙️ INSTALLATION
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmQ4cGd2dHZ6d3h4dWp4d2F0dGZ6dWp4d2F0dGZ6dWp4d2F0dA/giphy.gif" width="400">
 </p>
 
 Requirements
@@ -155,7 +155,7 @@ python php_encoder.py
 🔧 USAGE
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jklp6k/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd6dGJ4cGp6dGJ4cGp6dGJ4cGp6dGJ4cGp6dGJ4cGp6dA/giphy.gif" width="400">
 </p>
 
 Basic Usage
@@ -205,7 +205,7 @@ IMPOSSIBLE MODE [H] 25 layers of security 💀💀💀💀💀
 💀 IMPOSSIBLE TO BREAK MODE (25 LAYERS)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l2JehQ2Fi2J93YomI/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGd2dHZ6d3h4dWp4d2F0dGZ6dWp4d2F0dGZ6dWp4d2F0dA/giphy.gif" width="500">
 </p>
 
 Layer Breakdown
@@ -242,7 +242,7 @@ Layer Technique Purpose
 📊 STEP-BY-STEP VISUALIZATION
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2R5N3B4dTFyb2Z5dGJtcnE3dDRxN2k3b3l3dGJ4cGp6dGJ4cGp6dA/giphy.gif" width="500">
 </p>
 
 Real-time Progress Display
@@ -312,7 +312,7 @@ File Naming Convention
 🛡️ SECURITY FEATURES
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUx2/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd6dGJ4cGp6dGJ4cGp6dGJ4cGp6dGJ4cGp6dGJ4cGp6dA/giphy.gif" width="400">
 </p>
 
 Anti-Tamper Mechanisms
@@ -352,11 +352,11 @@ Shell Security
 ⚠️ CONTENT NOT FOUND
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGd2dHZ6d3h4dWp4d2F0dGZ6dWp4d2F0dGZ6dWp4d2F0dA/giphy.gif" width="500">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jklp6k/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmQ4cGd2dHZ6d3h4dWp4d2F0dGZ6dWp4d2F0dGZ6dWp4d2F0dA/giphy.gif" width="500">
 </p>
 
 404 - Page Not Found
@@ -386,7 +386,7 @@ Shell Security
 Danger Zone - Unauthorized Access
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bY3UQVjQ7mw/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd6dGJ4cGp6dGJ4cGp6dGJ4cGp6dGJ4cGp6dGJ4cGp6dA/giphy.gif" width="400">
 </p>
 
 ```
@@ -412,7 +412,7 @@ Danger Zone - Unauthorized Access
 🤝 CONTRIBUTING
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd6dGJ4cGp6dGJ4cGp6dGJ4cGp6dGJ4cGp6dGJ4cGp6dA/giphy.gif" width="400">
 </p>
 
 How to Contribute
@@ -511,11 +511,17 @@ Support Channels
 · 📧 Email: afm1337@protonmail.com
 · 🌐 Website: Coming Soon
 
-Response Time
+---
 
-· ⏱️ Issues: Within 24-48 hours
-· ⏱️ Email: Within 12-24 hours
-· ⏱️ Telegram: Within 1-2 hours
+🎯 PROJECT LOGO
+
+```
+       ▗▄▄▖ ▐▌   ▄▄▄▄      ▗▖  ▗▖▄  ▄▄▄  ▄▄▄ ▄ █ ▗▞▀▚▖
+       ▐▌ ▐▌▐▌   █   █     ▐▛▚▞▜▌▄ ▀▄▄  ▀▄▄  ▄ █ ▐▛▀▀▘
+       ▐▛▀▘ ▐▛▀▚▖█▄▄▄▀     ▐▌  ▐▌█ ▄▄▄▀ ▄▄▄▀ █ █ ▝▚▄▄▖
+       ▐▌   ▐▌ ▐▌█         ▐▌  ▐▌█           █ █      
+                 ▀                                    
+```
 
 ---
 
@@ -536,7 +542,7 @@ Response Time
 🎉 THANK YOU
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l2JehQ2Fi2J93YomI/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGd2dHZ6d3h4dWp4d2F0dGZ6dWp4d2F0dGZ6dWp4d2F0dA/giphy.gif" width="400">
 </p>
 
 <p align="center">
@@ -559,22 +565,4 @@ Response Time
        ▐▛▀▘ ▐▛▀▚▖█▄▄▄▀     ▐▌  ▐▌█ ▄▄▄▀ ▄▄▄▀ █ █ ▝▚▄▄▖
        ▐▌   ▐▌ ▐▌█         ▐▌  ▐▌█           █ █      
                  ▀                                    
-```rotonmail.com
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/AFM-1337/count.svg" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="200">
-</p>
-
-<p align="center">
-  <b>⚡ SECURE YOUR PHP CODE WITH ADVANCED OBFUSCATION ⚡</b>
-</p>
-
-<p align="center">
-  <a href="#-php-encoder-premium-v130">Back to Top ⬆️</a>
-</p>
+```
