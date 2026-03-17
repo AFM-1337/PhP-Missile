@@ -1,6 +1,6 @@
 🚀 PHP Encoder Premium v13.0
 
-https://raw.githubusercontent.com/AFM-1337/PhP-Missile/banner.png
+[https://raw.githubusercontent.com/AFM-1337/PhP-Missile/banner.png](https://raw.githubusercontent.com/AFM-1337/PhP-Missile/refs/heads/main/banner.png)
 <p align="center">
   <img src="https://img.shields.io/badge/Version-13.0%20ELITE-brightgreen?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Release-Date%202024-blue?style=for-the-badge&logo=github">
