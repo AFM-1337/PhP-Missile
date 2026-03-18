@@ -1,24 +1,4 @@
-🚀 PHP Missile - Complete Installation & Usage Guide
-
-📥 Installation Commands
-
-```bash
-# Clone the repository
-git clone https://github.com/AFM-1337/PhP-Missile.git
-
-# Navigate to directory
-cd Php-Missile
-
-# Run the tool
-python missile.py
-```
-
----
-
-📋 Complete README.md Content
-
-```markdown
-# 🚀 PHP Missile - Advanced PHP Encoder & Obfuscator
+🚀 PHP Missile - Advanced PHP Encoder & Obfuscator
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AFM-1337/PhP-Missile/refs/heads/main/banner.png" width="800">
@@ -33,50 +13,54 @@ python missile.py
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=60&lines=SECURE+YOUR+PHP+CODE;ADVANCED+OBFUSCATION+TECHNIQUES;IMPOSSIBLE+TO+BREAK+ENCRYPTION;30+LAYERS+OF+SECURITY;CREATED+BY+MD+ARAFAT+HOSSEN+MUGDHO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=60&lines=SECURE+YOUR+PHP+CODE;ADVANCED+OBFUSCATION+TECHNIQUES;IMPOSSIBLE+TO+BREAK+ENCRYPTION;15+20+30+LAYERS+OF+SECURITY;CREATED+BY+MD+ARAFAT+HOSSEN+MUGDHO" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📋 **TABLE OF CONTENTS**
+📋 TABLE OF CONTENTS
 
-- [🌟 FEATURES](#-features)
-- [📸 PREVIEW](#-preview)
-- [⚙️ INSTALLATION](#️-installation)
-- [🔧 USAGE](#-usage)
-- [🎯 ENCODING METHODS](#-encoding-methods)
-- [💀 IMPOSSIBLE MODES](#-impossible-modes)
-- [📊 STEP-BY-STEP VISUALIZATION](#-step-by-step-visualization)
-- [📁 OUTPUT STRUCTURE](#-output-structure)
-- [🛡️ SECURITY FEATURES](#️-security-features)
-- [⚠️ TROUBLESHOOTING](#️-troubleshooting)
-- [🤝 CONTRIBUTING](#-contributing)
-- [📜 LICENSE](#-license)
-- [📞 CONTACT](#-contact)
-
----
-
-## 🌟 **FEATURES**
-
-| 🏷️ | Feature | Description |
-|-----|---------|-------------|
-| 🔐 | **Multi-Layer Encryption** | 15, 20, and 30 layer encryption |
-| 💀 | **Impossible Mode** | Unbreakable encryption techniques |
-| 🎨 | **Beautiful UI** | Colorful terminal interface with step-by-step visualization |
-| ⚡ | **High Performance** | Fast encoding even for large PHP files |
-| 🛡️ | **Anti-Decode** | Multiple anti-tamper and anti-decode layers |
-| 📊 | **Step Visualization** | Real-time progress with visual indicators |
-| 🔑 | **Password Protection** | Encrypted shell with password `afm1337` |
-| 📦 | **Batch Processing** | Encode multiple files |
-| 🐍 | **Python 3.8+** | Cross-platform compatibility |
+· 🌟 FEATURES
+· 📸 PREVIEW
+· ⚙️ INSTALLATION
+· 🔧 USAGE
+· 🎯 ENCODING METHODS
+· 💀 IMPOSSIBLE MODES
+· 📊 STEP-BY-STEP VISUALIZATION
+· 📁 OUTPUT STRUCTURE
+· 🛡️ SECURITY FEATURES
+· ⚠️ TROUBLESHOOTING
+· 🤝 CONTRIBUTING
+· 📜 LICENSE
+· 📞 CONTACT
 
 ---
 
-## 📸 **PREVIEW**
+🌟 FEATURES
 
-### Main Menu
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="400">
+</p>
+
+🏷️ Feature Description
+🔐 Multi-Layer Encryption 15, 20, and 30 layer encryption
+💀 Impossible Mode Unbreakable encryption techniques
+🎨 Beautiful UI Colorful terminal interface with step-by-step visualization
+⚡ High Performance Fast encoding even for large PHP files
+🛡️ Anti-Decode Multiple anti-tamper and anti-decode layers
+📊 Step Visualization Real-time progress with visual indicators
+🔑 Password Protection Encrypted shell with password afm1337
+📦 Batch Processing Encode multiple files
+🐍 Python 3.8+ Cross-platform compatibility
+🔄 PHP 8 Compatible No create_function() - works on PHP 8+
+
+---
+
+📸 PREVIEW
+
+Main Menu
+
 ```
-
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃              PHP ENCODER - ULTIMATE EDITION v13.0        ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
@@ -94,40 +78,44 @@ python missile.py
 ┃  [X] EXIT                                                  ┃
 ┃                                                            ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
 ```
 
-### Layer Visualization
-```
+Layer Visualization
 
+```
 ⚡ ACTIVATING 20 LAYER ENCRYPTION...
 ──────────────────────────────────────────────────
-🔸 Layer 01: PHP TAG REMOVAL           [████████████████████] 100%
-🔹 Layer 02: CODE MINIFICATION         [████████████████████] 100%
-🔸 Layer 03: CHUNK SPLITTING           [████████████████████] 100%
-🔹 Layer 04: XOR ENCRYPTION (KEY1)     [████████████████████] 100%
-🔸 Layer 05: BASE64 ENCODE (x2)        [████████████████████] 100%
-🔹 Layer 06: REVERSE STRING            [████████████████████] 100%
-🔸 Layer 07: BASE64 ENCODE             [████████████████████] 100%
-🔹 Layer 08: XOR ENCRYPTION (KEY2)     [████████████████████] 100%
-🔸 Layer 09: BASE64 ENCODE             [████████████████████] 100%
-🔹 Layer 10: CHUNK REVERSE              [████████████████████] 100%
-... (and 10 more layers)
-⭐ Layer 20: FINAL ASSEMBLY             [████████████████████] 100%
+  🔸 Layer 01: PHP TAG REMOVAL           [████████████████████] 100%
+  🔹 Layer 02: CODE MINIFICATION         [████████████████████] 100%
+  🔸 Layer 03: CHUNK SPLITTING           [████████████████████] 100%
+  🔹 Layer 04: XOR ENCRYPTION (KEY1)     [████████████████████] 100%
+  🔸 Layer 05: BASE64 ENCODE (x2)        [████████████████████] 100%
+  🔹 Layer 06: REVERSE STRING            [████████████████████] 100%
+  🔸 Layer 07: BASE64 ENCODE             [████████████████████] 100%
+  🔹 Layer 08: XOR ENCRYPTION (KEY2)     [████████████████████] 100%
+  🔸 Layer 09: BASE64 ENCODE             [████████████████████] 100%
+  🔹 Layer 10: CHUNK REVERSE              [████████████████████] 100%
+  ... (and 10 more layers)
+  ⭐ Layer 20: FINAL ASSEMBLY             [████████████████████] 100%
 ──────────────────────────────────────────────────
-
 ```
 
 ---
 
-## ⚙️ **INSTALLATION**
+⚙️ INSTALLATION
 
-### Requirements
-- Python 3.8+
-- Linux/Termux/Windows
-- PHP CLI (for testing)
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jklp6k/giphy.gif" width="400">
+</p>
 
-### Quick Install
+Requirements
+
+· Python 3.8+
+· Linux/Termux/Windows
+· PHP CLI (for testing)
+
+Quick Install
+
 ```bash
 # Clone the repository
 git clone https://github.com/AFM-1337/PhP-Missile.git
@@ -157,9 +145,19 @@ cd Php-Missile
 python missile.py
 ```
 
+One-Line Install & Run
+
+```bash
+git clone https://github.com/AFM-1337/PhP-Missile.git && cd Php-Missile && python missile.py
+```
+
 ---
 
 🔧 USAGE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3orieS4jfHJaKwk1gQ/giphy.gif" width="400">
+</p>
 
 Basic Usage
 
@@ -185,6 +183,13 @@ Check PHP Version
 python missile.py
 > V
 # Shows your PHP version
+```
+
+Test Encoded File
+
+```bash
+# Option from menu after encoding
+# Automatic test after each encoding
 ```
 
 ---
@@ -292,6 +297,30 @@ Layer Technique
 
 ---
 
+📊 STEP-BY-STEP VISUALIZATION
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="500">
+</p>
+
+Real-time Progress Display
+
+```
+[*] IMPOSSIBLE 20 LAYER MODE
+──────────────────────────────────────────────────
+  🔸 Layer 01: PHP TAG REMOVAL           [████████████████████] 100%
+  🔹 Layer 02: CODE MINIFICATION         [████████████████████] 100%
+  🔸 Layer 03: CHUNK SPLITTING           [████████████████████] 100%
+  🔹 Layer 04: XOR ENCRYPTION (KEY1)     [████████████████████] 100%
+  🔸 Layer 05: BASE64 ENCODE (x2)        [████████████████████] 100%
+  🔹 Layer 06: REVERSE STRING            [████████████████████] 100%
+  ... (and 14 more layers)
+  ⭐ Layer 20: FINAL ASSEMBLY             [████████████████████] 100%
+──────────────────────────────────────────────────
+```
+
+---
+
 📁 OUTPUT STRUCTURE
 
 ```
@@ -314,18 +343,41 @@ Output/
 └── shell_ultimate_xxxx.php  # 30 layer ultimate shell
 ```
 
+File Naming Convention
+
+· B64_original.php - Base64 encoded
+· GZ_original.php - GZip compressed
+· MUL_original.php - Multi-layer encoded
+· STR_original.php - String obfuscated
+· VAR_original.php - Variable renamed
+· FUNC_original.php - Function obfuscated
+· MIN_original.php - Minified version
+· PHP8_original.php - PHP 8 compatible
+· GECKO8_original.php - PHP 8 Gecko style
+· IMP15_PHP8_original.php - 15 layer impossible
+· IMP20_PHP8_original.php - 20 layer impossible
+· ULTIMATE30_PHP8_original.php - 30 layer ultimate
+· CUS_original.php - Custom encryption
+· shell_15layer_xxxx.php - 15 layer shell
+· shell_20layer_xxxx.php - 20 layer shell
+· shell_ultimate_xxxx.php - 30 layer ultimate shell
+
 ---
 
 🛡️ SECURITY FEATURES
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jH6gkTWm8qo/giphy.gif" width="400">
+</p>
+
 Anti-Tamper Mechanisms
 
-· ✅ XOR encryption with multiple keys
+· ✅ XOR encryption with multiple keys (up to 5)
 · ✅ Base64 nesting (up to 2x)
 · ✅ ROT13 & ROT47 encoding
 · ✅ Hex encoding
 · ✅ Chunk reversal & shuffling
-· ✅ Random key generation
+· ✅ Random key generation (6-8 chars)
 · ✅ Multi-stage decoding
 · ✅ Error detection & handling
 
@@ -338,6 +390,7 @@ Encryption Strength
 · 🔒 15-30 combined layers
 · 🔒 ROT13 + ROT47 encoding
 · 🔒 Hex encoding
+· 🔒 No create_function() - PHP 8 safe
 
 Shell Security
 
@@ -351,15 +404,20 @@ Shell Security
 
 ⚠️ TROUBLESHOOTING
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="400">
+</p>
+
 Common Issues & Solutions
 
 Issue Solution
 create_function() error Use PHP 8 compatible encoders (P8, PG, 15, 20, 30)
 White page on execution Add error_reporting(E_ALL); at top of file
-hexdec() deprecated warning Updated in latest version - safe decoder added
+hexdec() deprecated warning Fixed in latest version - safe decoder added
 eval()'d code error Check if decoded code is valid PHP
 File not saving Check Output directory permissions
 PHP not found Install PHP CLI: apt install php (Linux) / pkg install php (Termux)
+UTF-8 decode error Fixed with subprocess binary handling
 
 PHP Version Check
 
@@ -379,6 +437,10 @@ python missile.py
 ---
 
 🤝 CONTRIBUTING
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l2JehQ2Fi2J93YomI/giphy.gif" width="400">
+</p>
 
 How to Contribute
 
@@ -505,6 +567,10 @@ Support Channels
 🎉 THANK YOU
 
 <p align="center">
+  <img src="https://media.giphy.com/media/l2JehQ2Fi2J93YomI/giphy.gif" width="400">
+</p>
+
+<p align="center">
   <b>⚡ SECURE YOUR PHP CODE WITH THE ULTIMATE ENCRYPTION TOOL ⚡</b>
 </p>
 
@@ -513,7 +579,7 @@ Support Channels
 </p>
 
 <p align="center">
-  <a href="#-php-missile---complete-installation--usage-guide">
+  <a href="#-php-missile---advanced-php-encoder--obfuscator">
     <img src="https://img.shields.io/badge/⬆️-Back%20to%20Top-blue?style=for-the-badge">
   </a>
 </p>
@@ -526,9 +592,9 @@ Support Channels
                  ▀                                    
 ```
 
-```
+---
 
-## 🚀 **Quick Start Commands**
+🚀 QUICK START
 
 ```bash
 # Clone and run in one line
@@ -541,3 +607,7 @@ python missile.py
 ```
 
 ---
+
+<p align="center">
+  <b>🔥 HAPPY ENCODING! 🔥</b>
+</p>
